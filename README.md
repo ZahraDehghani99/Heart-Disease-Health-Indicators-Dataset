@@ -8,4 +8,4 @@ assing weight for each class and using mlp and autoencoder for classification
 
 ## part2 : 
 1.  train mlp for each class and then combine them for classification
-2.  train mlp on the normal data and then set threshold for reconstruction error and recognize unusual data
+2.  train autoencoder on the normal data and then set threshold for reconstruction error and recognize unusual data
