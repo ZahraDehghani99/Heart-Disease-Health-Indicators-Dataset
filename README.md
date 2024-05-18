@@ -1,5 +1,9 @@
 # Heart-Disease-Health-Indicators-Dataset
-[dataset link](https://www.kaggle.com/alexteboul/heart-disease-health-indicators-dataset)
+[Link of dataset](https://www.kaggle.com/alexteboul/heart-disease-health-indicators-dataset)
+
+
+[Link of notebook in Kaggle](https://www.kaggle.com/code/zahradehghanitafti/heart-disease-classification)
+
 
 Binary classification using mlp and autoencoder
 
